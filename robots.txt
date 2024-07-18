@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rolialesa.github.io/sitemap
+Sitemap: https://rolialesa.github.io/app/sitemap
+Sitemap: https://rolialesa.github.io/assets/sitemap
+Sitemap: https://rolialesa.github.io/css/sitemap
+Sitemap: https://rolialesa.github.io/includes/sitemap
+Sitemap: https://rolialesa.github.io/item/sitemap
+Sitemap: https://rolialesa.github.io/src/sitemap
